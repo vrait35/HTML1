@@ -1,0 +1,31 @@
+.a1{
+  background-color: #c4c4c4;
+  padding-top: 20px;
+  font-weight: bold;
+  margin-bottom:20px;
+  margin-top: 20px;
+}
+.a2{
+  background-color: #c40001;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color:#ffffff;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.a3{
+  background-color: #ffffff;
+  font-style: italic;
+  text-decoration: underline;
+}
+.a4{
+  background-color: #808080;
+  text-transform: uppercase;
+  color:#ffffff;
+  padding-bottom: 30px;
+  margin-top:30px;
+  font-weight: bold;
+}
+.aa{
+  font-size:24px;
+}
